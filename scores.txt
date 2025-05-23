@@ -1,8 +1,0 @@
-Roben,11,4x4
-Tom,22,4x4
-Heidi,16,4x4
-Heidi,56,6x6
-Ahmad,14,4x4
-Ahmad,3,2x2
-Samira,17,4x4
-Adam,3,2x2
